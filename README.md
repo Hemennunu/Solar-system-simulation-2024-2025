@@ -12,6 +12,11 @@ An immersive, interactive 3D solar system visualization built with Three.js feat
 | Mekdelawit Kassahun  | UGR/7097/15    |
 | Nathnael Tewodros    | UGR/0437/15    |
 | Nuhamin Arega        | UGR/1151/15    |
+| sumeya Ibrahim       | UGR/6702/15    |
+| Yabtsega kinfe       | UGR/2887/15    |
+
+
+
 
 ---
 
