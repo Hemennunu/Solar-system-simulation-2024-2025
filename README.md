@@ -152,4 +152,3 @@ Potential future improvements:
 ---
 
 **Enjoy exploring the enhanced solar system!** 🚀✨
-![solar system](image.png)
